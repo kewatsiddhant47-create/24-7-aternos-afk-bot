@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SchoolL_SMP_S1.exaroton.me",
-    "port": 16924,
+    "ip": "SchoolL_SMP_S1.aternos.me",
+    "port": 29455,
     "version": "1.20.1",
     "try-creative": false
   },
